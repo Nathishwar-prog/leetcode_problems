@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 ## Design
 |  |
