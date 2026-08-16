@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1512-number-of-good-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1512-number-of-good-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Counting
 |  |
 | ------- |
