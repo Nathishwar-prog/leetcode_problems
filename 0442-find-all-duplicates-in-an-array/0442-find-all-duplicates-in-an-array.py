@@ -4,11 +4,14 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        if len(nums) <= 1:
-            return []
+        result = []
 
-        freq = {}
         for x in nums:
-            freq[x] = freq.get(x,0) + 1
+            index = abs(x) - 1
 
-        return [x for x in freq if freq[x] > 1]
+            if nums[index] < 0:
+                result.append(abs(x))
+            else:
+                nums[index] = -nums[index]
+
+        return result
