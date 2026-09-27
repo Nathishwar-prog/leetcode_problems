@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1512-number-of-good-pairs) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
 | ------- |
