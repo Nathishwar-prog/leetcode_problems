@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1929-concatenation-of-array](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
