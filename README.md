@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0137-single-number-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0010-regular-expression-matching) |
+| [0049-group-anagrams](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0242-valid-anagram) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
