@@ -1,3 +1,4 @@
+from collections import Counter
 class Solution(object):
     def topKFrequent(self, nums, k):
         """
@@ -17,4 +18,9 @@ class Solution(object):
             if freq[num] > 1 and len(most_frequent) <= k:
                 most_frequent.append(num)
 
+        # freq = Counter(nums)
+
+        # result = [num for num , count in freq.most_common(k)]
+
+        # return result
         
