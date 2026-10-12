@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1512-number-of-good-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0010-regular-expression-matching) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
