@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1920-build-array-from-permutation](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/2460-apply-operations-to-an-array) |
 ## Quicksort
