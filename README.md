@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1512-number-of-good-pairs) |
+| [2235-add-two-integers](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/2235-add-two-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
