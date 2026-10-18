@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/2235-add-two-integers) |
 ## Heap (Priority Queue)
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/2460-apply-operations-to-an-array) |
