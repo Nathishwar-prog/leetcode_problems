@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/0412-fizz-buzz) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Nathishwar-prog/leetcode_problems/tree/master/2235-add-two-integers) |
 ## Heap (Priority Queue)
